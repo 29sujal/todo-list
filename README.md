@@ -10,9 +10,6 @@ A simple, clean, and interactive **To-Do List** application built using **HTML**
 - 💾 Data persistence using localStorage
 - 🎨 Stylish and responsive UI design
 
-## 📸 Preview
-
-![Preview of To-Do List App](images/screenshot.png) *(Add this screenshot manually)*
 
 ## 🛠️ Tech Stack
 
